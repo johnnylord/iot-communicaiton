@@ -1,3 +1,6 @@
 [submodule "django-rest-tutorial"]
 	path = django-rest-tutorial
 	url = https://github.com/johnnylord/django-rest-tutorial.git
+[submodule "gRPC-with-protobuf"]
+	path = gRPC-with-protobuf
+	url = https://github.com/johnnylord/gRPC-with-protobuf.git
