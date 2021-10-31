@@ -4,3 +4,6 @@
 [submodule "gRPC-with-protobuf"]
 	path = gRPC-with-protobuf
 	url = https://github.com/johnnylord/gRPC-with-protobuf.git
+[submodule "eclipse-mosquitto"]
+	path = eclipse-mosquitto
+	url = https://github.com/johnnylord/eclipse-mosquitto.git
